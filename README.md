@@ -1,2 +1,2 @@
 # ruby
-learning Ruby
+Ruby Practice and Test Project
